@@ -1,4 +1,8 @@
 import chalk from "chalk";
+
+// 最低支持的node版本
+export const defaultNodeVersion = "v22.0.0";
+
 // 下载模版地址配置
 export const templates = {
   "react-vite-ts-template": {
