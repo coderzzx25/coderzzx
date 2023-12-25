@@ -1,6 +1,6 @@
 {
   "name": "coderzzx",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A tool for cli to create a project",
   "main": "index.js",
   "type": "module",

@@ -40,7 +40,9 @@ coderzzx init
 目前支持
 
 1. React+Vite+TS
-2. Vue+Vite+TS
+2. React+Vite+JS
+3. Vue+Vite+TS
+4. Vue+Vite+JS
 
 ### 3. 输入项目名称
 
