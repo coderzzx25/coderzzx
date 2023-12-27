@@ -11,7 +11,7 @@ export const templates = {
   "react-vite-ts-template": {
     url: `https://github.com/${downloadDirectory}/react-vite-ts-template`,
     downloadUrl:
-      "https://github.com:${downloadDirectory}/react-vite-ts-template#master",
+      `https://github.com:${downloadDirectory}/react-vite-ts-template#master`,
     description: "react vite ts",
   },
   "vue-vite-ts-template": {
